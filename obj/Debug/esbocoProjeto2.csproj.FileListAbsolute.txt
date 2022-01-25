@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\esbocoProjeto2\bin\Debug\esbocoProjeto2.exe.config
+C:\Users\nicol\source\repos\esbocoProjeto2\bin\Debug\esbocoProjeto2.exe
+C:\Users\nicol\source\repos\esbocoProjeto2\bin\Debug\esbocoProjeto2.pdb
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.Properties.Resources.resources
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.exe
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.pdb
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.Form01.resources
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.FrmMenu.resources
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.Form2.resources
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.Form3.resources
+C:\Users\nicol\source\repos\esbocoProjeto2\obj\Debug\esbocoProjeto2.Form4.resources
